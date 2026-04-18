@@ -1,0 +1,20 @@
+{
+  "chats": {
+    "c54bed45-3542-4c26-88e3-02743e40d89f": {
+      "title": "hii",
+      "messages": [
+        {
+          "role": "user",
+          "content": "hii",
+          "ts": "21:53"
+        },
+        {
+          "role": "bot",
+          "content": "Hello! How can I assist you today?",
+          "ts": "21:53"
+        }
+      ]
+    }
+  },
+  "current_chat_id": "c54bed45-3542-4c26-88e3-02743e40d89f"
+}
